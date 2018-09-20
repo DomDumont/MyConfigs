@@ -16,3 +16,4 @@ noremap j <NOP>
 noremap k <NOP>
 noremap l <NOP>
 
+set encoding=utf-8
